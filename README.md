@@ -24,3 +24,4 @@ Synthetic BMW Car Sales dataset from Kaggle:
 ## 🚀 How to Use
 Clone the repo and run the Jupyter/Kaggle notebook:
 ```bash
+git clone https://github.com/foxsmiley/BMW-SALES-ANALYSIS.git
